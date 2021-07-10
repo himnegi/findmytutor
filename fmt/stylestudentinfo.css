@@ -1,0 +1,50 @@
+.bg
+{width:100%;
+    height:150%;
+    background-image:url(" images/login.jpg");
+    background-size: cover;
+    position:absolute; 
+
+
+
+}
+
+
+
+.panel
+{
+    width:80%;
+    height:80%;
+
+padding-left:100px;
+padding-top:70px;
+padding-right:70px;
+
+
+
+
+}
+
+
+    .buttonwidth{
+        width:350px;
+        height:25px;
+        line-height: 2;
+        
+        display: inline-block;
+    }
+
+
+    .form-group{
+        background-color:rgba(245, 230, 230, 0.918);
+        
+    margin-top:20px;
+    padding:20px;
+    
+    
+    height:65%;
+    width: 50%;
+    line-height: 2;
+    
+    
+    }
